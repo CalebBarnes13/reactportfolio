@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Banking Application',
     description: "A banking application utilizing functional Tailwind CSS on all plateforms",
-    image: '/images/twitter.png',
+    image: '/images/React_Banking_Application.png',
     tags: ['TypeScript', 'React'],
     source: 'https://github.com/CalebBarnes13/react-bank-app',
     visit: 'https://react-bank-app-eight.vercel.app',
