@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://twitterclone-sooty.vercel.app/',
     id: 3,
   },
+  {
+    title: 'Banking Application',
+    description: "A banking application utilizing functional Tailwind CSS on all plateforms",
+    image: '/images/twitter.png',
+    tags: ['TypeScript', 'React'],
+    source: 'https://github.com/CalebBarnes13/react-bank-app',
+    visit: 'https://react-bank-app-eight.vercel.app',
+    id: 4,
+  },
 ];
 
 export const TimeLineData = [
