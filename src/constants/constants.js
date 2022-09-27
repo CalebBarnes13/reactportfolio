@@ -44,6 +44,15 @@ export const projects = [
     visit: 'https://react-bank-app-eight.vercel.app',
     id: 4,
   },
+  {
+    title: 'Hair Salon',
+    description: "A hairsalon application with a responsive UI interface.",
+    image: '/images/crownd.png',
+    tags: ['HTML5', 'CSS', 'Javascript'],
+    source: 'https://github.com/CalebBarnes13/crownd',
+    visit: 'https://calebbarnes13.github.io/crownd/index.html',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
